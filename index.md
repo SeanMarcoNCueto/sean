@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sean Cueto's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SeanMarcoNCueto/sean/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
