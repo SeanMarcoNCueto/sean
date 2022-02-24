@@ -1,4 +1,6 @@
 ## Welcome to Sean Cueto's GitHub Pages
+
+Owned by Sean Marco N. Cueto
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xab4nIdd9II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 You can use the [editor on GitHub](https://github.com/SeanMarcoNCueto/sean/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
