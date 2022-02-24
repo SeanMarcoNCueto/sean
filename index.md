@@ -55,7 +55,7 @@ Syntax highlighted code block
  
 
 ### My Teacher's Link
-.['Github'](https://641n.github.io/computer-9)
+.[Sir Gain](https://641n.github.io/computer-9)
 
 
 
