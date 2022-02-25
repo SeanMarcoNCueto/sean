@@ -58,6 +58,9 @@ Syntax highlighted code block
 .[Sir Gain](https://641n.github.io/computer-9)
 
 
+![image](https://user-images.githubusercontent.com/94880395/155638556-3324db3b-12f1-4be0-9d8b-42829b1861d5.png)
+
+
 
 
 
