@@ -61,7 +61,7 @@ my favorite artist named Keshi
 
 
 ### My Teacher's Link
-.[Sir Gain](https://641n.github.io/computer-9)
+[Sir Gain](https://641n.github.io/computer-9)
 
 
 
