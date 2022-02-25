@@ -5,11 +5,12 @@ Owned by Sean Marco N. Cueto
 You can use the [editor on GitHub](https://github.com/SeanMarcoNCueto/sean/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 
-### Markdown
+### Chill space
+                         ![image](https://user-images.githubusercontent.com/94880395/155641653-9b95eb0a-f6d2-4bb6-892e-6353dc309dce.png)
 
 
 ```markdown
-Syntax highlighted code block
+
 
 
   
@@ -58,7 +59,8 @@ Syntax highlighted code block
 .[Sir Gain](https://641n.github.io/computer-9)
 
 
-![image](https://user-images.githubusercontent.com/94880395/155638556-3324db3b-12f1-4be0-9d8b-42829b1861d5.png)
+![image](https://user-images.githubusercontent.com/94880395/155640855-52eb321e-f742-42bc-a192-b9d40fc76cd3.png)
+
 
 
 
