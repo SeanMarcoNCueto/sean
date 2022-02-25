@@ -6,12 +6,15 @@ You can use the [editor on GitHub](https://github.com/SeanMarcoNCueto/sean/edit/
 
 
 ### Chill space
-                         ![image](https://user-images.githubusercontent.com/94880395/155641653-9b95eb0a-f6d2-4bb6-892e-6353dc309dce.png)
+
+![image](https://user-images.githubusercontent.com/94880395/155641653-9b95eb0a-f6d2-4bb6-892e-6353dc309dce.png)
 
 
 ```markdown
+Welcome to my page this is 
+my favorite artist named Keshi
 
-
+```
 
   
 1   |   00:00   |   right here
