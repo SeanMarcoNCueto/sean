@@ -57,15 +57,11 @@ my favorite artist named Keshi
 37  |   1:45:46 |   bandaids
 
 
- 
+ ![image](https://user-images.githubusercontent.com/94880395/155640855-52eb321e-f742-42bc-a192-b9d40fc76cd3.png)
+
 
 ### My Teacher's Link
 .[Sir Gain](https://641n.github.io/computer-9)
-
-
-![image](https://user-images.githubusercontent.com/94880395/155640855-52eb321e-f742-42bc-a192-b9d40fc76cd3.png)
-
-
 
 
 
