@@ -17,8 +17,7 @@ my favorite artist named Keshi
 
 ```
      
-    | Duration  |   Title  |
-    |-----------|----------
+     
 1   |   00:00   |   right here
 2   |   03:23   |   summer
 3   |   06:09   |   beside you
