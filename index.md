@@ -7,7 +7,8 @@ You can use the [editor on GitHub](https://github.com/SeanMarcoNCueto/sean/edit/
 
 ### Chill space
 
-![image](https://user-images.githubusercontent.com/94880395/155641653-9b95eb0a-f6d2-4bb6-892e-6353dc309dce.png)
+![image](https://user-images.githubusercontent.com/94880395/155642951-80046393-bdb9-4530-bc6c-935a39aa49a9.png)
+
 
 
 ```markdown
